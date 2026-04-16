@@ -1,0 +1,1 @@
+# apartman-yoneticisi-app
